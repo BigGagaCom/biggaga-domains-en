@@ -28,8 +28,12 @@ You can use this repository to:
 ---
 
 ## 🔗 Related Resources
-- **Website**: [https://biggaga.com](https://biggaga.com)  
-- **Google Sheets (Public CSV)**: [Public Domain List](https://docs.google.com/spreadsheets/d/e/2PACX-1vT9_5BDFQw0Li8_d7kD8dQ3YWtjfkFDchuSmMUWGmnV1mjmiaEmjhZG244sVlR40adZwhne9r9qn5ix/pub?gid=1529694897&single=true&output=csv)
+
+- Website: https://biggaga.com  
+- Google Sheets: [Public Domain List](https://docs.google.com/spreadsheets/d/19_WRqvD97VtzSoNNJyBeDjtxN4o0mtZRzNUhgAP75s0/edit?usp=sharing)  
+- Dropbox: [Download JSON](https://www.dropbox.com/scl/fi/jy9t1kub6gjcsjcnyyug9/domains_en.json?rlkey=qkdurj3zyli5i56mv8xxi4cu3&st=fjupkw3o&dl=0)  
+- OneDrive: [Download JSON](https://1drv.ms/u/c/c6c0dcda53e2941a/EQ_FDDsPfCRBtouzAvE1WzsBjItfGvfoZTzFTCVX1Z8YMQ?download=1)  
+
 
 ---
 
