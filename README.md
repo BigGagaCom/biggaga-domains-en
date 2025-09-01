@@ -63,7 +63,7 @@ For domain inquiries or partnership opportunities, please contact: **domains@big
 
 - ## 🌐 My Domains
 
-- - [PreciseTutor.com](https://biggaga.com/name/PreciseTutor.com)  
+- [PreciseTutor.com](https://biggaga.com/name/PreciseTutor.com)  
 - [Nilufer.org](https://biggaga.com/name/Nilufer.org)  
 - [NIFE.net](https://biggaga.com/name/NIFE.net)  
 - [SUAT.net](https://biggaga.com/name/SUAT.net)  
