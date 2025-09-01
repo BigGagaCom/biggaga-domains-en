@@ -52,3 +52,12 @@ For domain inquiries or partnership opportunities, please contact: **domains@big
 - [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
 - [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
 
+## 🌍 Page Links
+
+**Repository:** https://github.com/BigGagaCom/biggaga-domains-en  
+**Website:** https://biggagacom.github.io/biggaga-domains-en/  
+
+- [CSV File](https://biggagacom.github.io/biggaga-domains-en/domains_en.csv)  
+- [JSON File](https://biggagacom.github.io/biggaga-domains-en/domains_en.json)  
+- [RSS Feed](https://biggagacom.github.io/biggaga-domains-en/biggaga-domains-full-en.rss.xml)  
+
