@@ -61,7 +61,8 @@ For domain inquiries or partnership opportunities, please contact: **domains@big
 - [JSON File](https://biggagacom.github.io/biggaga-domains-en/domains_en.json)  
 - [RSS Feed](https://biggagacom.github.io/biggaga-domains-en/biggaga-domains-full-en.rss.xml)
 
-- ## 🌐 My Domains
+
+## 🌐 My Domains
 
 - [PreciseTutor.com](https://biggaga.com/name/PreciseTutor.com)  
 - [Nilufer.org](https://biggaga.com/name/Nilufer.org)  
