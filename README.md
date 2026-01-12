@@ -125,7 +125,6 @@ For domain inquiries or partnership opportunities, please contact: **domains@big
 - [SozLux.com](https://biggaga.com/name/SozLux.com)  
 - [PanelAxis.com](https://biggaga.com/name/PanelAxis.com)  
 - [MentorTiger.com](https://biggaga.com/name/MentorTiger.com)  
-- [SuperWavy.com](https://biggaga.com/name/SuperWavy.com)  
 - [Zivto.com](https://biggaga.com/name/Zivto.com)  
 - [FlavorOrbit.com](https://biggaga.com/name/FlavorOrbit.com)  
 - [NiceLush.com](https://biggaga.com/name/NiceLush.com)  
